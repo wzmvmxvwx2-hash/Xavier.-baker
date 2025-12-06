@@ -1,2 +1,6 @@
-# Xavier.-baker
-I’m to the rescue
+index.html      <-- your main website page
+style.css       <-- your CSS styling
+logo.png        <-- your logo (optional)
+README.md       <-- optional, will be created automatically
+LICENSE         <-- optional, will be created automatically
+.gitignore      <-- optional, for ignoring files
